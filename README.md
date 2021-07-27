@@ -1,1 +1,1 @@
-# info-0960
+# Command-line interfaces and tools for biologists
